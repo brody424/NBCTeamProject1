@@ -1,4 +1,4 @@
-//
+//  팀 리더 A의 작업!
 //  FirstViewController.swift
 //  TeamProject1
 //
