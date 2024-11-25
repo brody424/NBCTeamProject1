@@ -11,7 +11,7 @@ class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // 계정A에서 FirstViewController 화면을 만들어서 개발을 시작했어요
+        // 계정A에서 FirstViewController 화면을 만들어서 개발을 시작했어요....
         // Do any additional setup after loading the view.
     }
     
